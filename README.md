@@ -12,9 +12,9 @@
 
 ### 🔥 Languages & Frameworks & Tools & Abilities
 
-<p align="center">
+<p>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Javascript" height="25" src="images/typescript.svg"></code>
+  <code><img title="Tavascript" height="25" src="images/typescript.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Vue" height="25" src="images/Vue.png"></code>
@@ -25,7 +25,7 @@
 
 ### 📊 Code statistic
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=stars" alt="a11enyan97's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### :zap: Recent Activity
