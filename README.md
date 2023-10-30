@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" align="right"/>
 
 
-### 😜 About me
+### 😊 About me
 
 - 💼 FrontEnd Engineer at [SSC-HN](https://www.ssc-hn.com/)
 - :man_student:  Chongqing University of Posts and Telecommunications, Internet of Things engineering
