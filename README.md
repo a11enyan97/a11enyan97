@@ -8,7 +8,7 @@
 
 ### 😊 About me
 
-- 💼 FrontEnd Engineer at [SSC-HN](https://www.ssc-hn.com/)
+<!---[- 💼 FrontEnd Engineer at [SSC-HN](https://www.ssc-hn.com/)](url)--->
 - :man_student:  Chongqing University of Posts and Telecommunications, Internet of Things engineering
 
 
